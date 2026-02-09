@@ -1,0 +1,12 @@
+Simulation started
+Processing data...
+Simulation finished
+This message is from logger2 instance
+Log from Thread 1
+Log from Thread 2
+Simulation started
+Processing data...
+Simulation finished
+This message is from logger2 instance
+Log from Thread 1
+Log from Thread 2

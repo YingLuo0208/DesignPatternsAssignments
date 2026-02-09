@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CopilotDiffPersistence">
+    <option name="pendingDiffs">
+      <map>
+        <entry key="$PROJECT_DIR$/LoggerSystem/src/main/java/singleton/logger/SimpleDemo.java">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/LoggerSystem/src/main/java/singleton/logger/SimpleDemo.java" />
+              <option name="updatedContent" value="package singleton.logger;&#10;&#10;/**&#10; * SimpleDemo 类 - 简单演示类&#10; * 展示Logger的基本功能并验证文件写入&#10; * Simple demo class to show Logger basic functionality and verify file writing&#10; */&#10;public class SimpleDemo {&#10;    public static void main(String[] args) {&#10;        System.out.println(&quot;=== Logger System Simple Demo ===\n&quot;);&#10;        &#10;        // 获取Logger实例 / Get Logger instance&#10;        Logger logger = Logger.getInstance();&#10;        &#10;        // 写入几条日志 / Write some logs&#10;        logger.write(&quot;First log message&quot;);&#10;        logger.write(&quot;Second log message&quot;);&#10;        logger.write(&quot;Third log message&quot;);&#10;        &#10;        System.out.println(&quot;\n--- Changing log file ---\n&quot;);&#10;        &#10;        // 更改日志文件 / Change log file&#10;        logger.setFileName(&quot;demo.log&quot;);&#10;        logger.write(&quot;Log after file change - message 1&quot;);&#10;        logger.write(&quot;Log after file change - message 2&quot;);&#10;        &#10;        // 关闭日志器 / Close logger&#10;        logger.close();&#10;        &#10;        System.out.println(&quot;\n=== Demo Finished ===&quot;);&#10;        System.out.println(&quot;\nPlease check these files in logs directory:&quot;);&#10;        System.out.println(&quot;1. application.log (should have 3 lines)&quot;);&#10;        System.out.println(&quot;2. demo.log (should have 2 lines)&quot;);&#10;    }&#10;}&#10;" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
