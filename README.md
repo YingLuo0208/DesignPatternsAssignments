@@ -9,3 +9,4 @@
 - [5 Singleton](https://github.com/YingLuo0208/DesignPatternsAssignments/tree/main/LoggerSystem)
 - [6 Decorator](https://github.com/YingLuo0208/DesignPatternsAssignments/tree/main/Decorator)
 - [7 State](https://github.com/YingLuo0208/DesignPatternsAssignments/tree/main/State)
+- [8 TemplateMethod](https://github.com/YingLuo0208/DesignPatternsAssignments/tree/9f6b5e08d9816d961d2e654356f4484a0c52456b/TemplateMethod)
