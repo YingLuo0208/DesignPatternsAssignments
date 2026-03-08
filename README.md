@@ -10,3 +10,5 @@
 - [6 Decorator](https://github.com/YingLuo0208/DesignPatternsAssignments/tree/main/Decorator)
 - [7 State](https://github.com/YingLuo0208/DesignPatternsAssignments/tree/main/State)
 - [8 TemplateMethod](https://github.com/YingLuo0208/DesignPatternsAssignments/tree/9f6b5e08d9816d961d2e654356f4484a0c52456b/TemplateMethod)
+- [9 Strategy](https://github.com/YingLuo0208/DesignPatternsAssignments/tree/eed6267582bd318c8d3b8cc4d2f5e32bac3feca4/Strategy)
+- 
