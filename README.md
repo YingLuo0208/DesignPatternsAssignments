@@ -13,4 +13,7 @@
 - [9 Strategy](https://github.com/YingLuo0208/DesignPatternsAssignments/tree/eed6267582bd318c8d3b8cc4d2f5e32bac3feca4/Strategy)
 - [10 Chain of Responsibility](https://github.com/YingLuo0208/DesignPatternsAssignments/tree/61935d45500c5528a9b3cf2f2b5c1a9d337720e1/ChainofResponsibility)
 - [11 Memento](https://github.com/YingLuo0208/DesignPatternsAssignments/tree/53dbd9cf5802a7e15b7ffaa0fbd0389b45771f36/Memento)
+- [12 proxy](https://github.com/YingLuo0208/DesignPatternsAssignments/tree/d6c7f24f0e0e012f1f4f46471375aa34f7c5218c/proxy)
+- [13 Visitor](https://github.com/YingLuo0208/DesignPatternsAssignments/tree/d6c7f24f0e0e012f1f4f46471375aa34f7c5218c/Visitor)
 - 
+
