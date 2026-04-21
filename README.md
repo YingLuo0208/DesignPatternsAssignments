@@ -15,5 +15,8 @@
 - [11 Memento](https://github.com/YingLuo0208/DesignPatternsAssignments/tree/53dbd9cf5802a7e15b7ffaa0fbd0389b45771f36/Memento)
 - [12 proxy](https://github.com/YingLuo0208/DesignPatternsAssignments/tree/d6c7f24f0e0e012f1f4f46471375aa34f7c5218c/proxy)
 - [13 Visitor](https://github.com/YingLuo0208/DesignPatternsAssignments/tree/d6c7f24f0e0e012f1f4f46471375aa34f7c5218c/Visitor)
-- 
+- [14 Builder](https://github.com/YingLuo0208/DesignPatternsAssignments/tree/309eb26902aaa945c3857ac3e7e9a33e3896d151/Builder0)
+- [15 Adapter](https://github.com/YingLuo0208/DesignPatternsAssignments/tree/309eb26902aaa945c3857ac3e7e9a33e3896d151/Adapter)
+- [16 ]()
+
 
