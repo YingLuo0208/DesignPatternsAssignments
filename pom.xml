@@ -15,6 +15,11 @@
         <module>TemplateMethod</module>
         <module>Strategy</module>
         <module>ChainofResponsibility</module>
+        <module>Memento</module>
+        <module>proxy</module>
+        <module>Visitor</module>
+        <module>Builder0</module>
+        <module>Adapter</module>
     </modules>
 
     <properties>
