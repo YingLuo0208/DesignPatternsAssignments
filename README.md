@@ -17,6 +17,10 @@
 - [13 Visitor](https://github.com/YingLuo0208/DesignPatternsAssignments/tree/d6c7f24f0e0e012f1f4f46471375aa34f7c5218c/Visitor)
 - [14 Builder](https://github.com/YingLuo0208/DesignPatternsAssignments/tree/309eb26902aaa945c3857ac3e7e9a33e3896d151/Builder0)
 - [15 Adapter](https://github.com/YingLuo0208/DesignPatternsAssignments/tree/309eb26902aaa945c3857ac3e7e9a33e3896d151/Adapter)
-- [16 ]()
+- [18 Prototype](https://github.com/YingLuo0208/DesignPatternsAssignments/tree/a92c9285704724e8f98f06dde9778456054e0a7f/Prototype)
+- [19 Mediator](https://github.com/YingLuo0208/DesignPatternsAssignments/tree/a92c9285704724e8f98f06dde9778456054e0a7f/Mediator)
+- [20 Iterator]()
+- [21 Facade]()
+- [22 Command]()
 
 
