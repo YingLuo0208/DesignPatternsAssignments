@@ -21,6 +21,6 @@
 - [19 Mediator](https://github.com/YingLuo0208/DesignPatternsAssignments/tree/a92c9285704724e8f98f06dde9778456054e0a7f/Mediator)
 - [20 Iterator](https://github.com/YingLuo0208/DesignPatternsAssignments/tree/4333d70c4d0cc8acf0ba861ecdfcf19bde03d584/Iterator/src/main/java/iterator/fibonacci)
 - [21 Facade](https://github.com/YingLuo0208/DesignPatternsAssignments/tree/4333d70c4d0cc8acf0ba861ecdfcf19bde03d584/Facade)
-- [22 Command]()
+- [22 Command](https://github.com/YingLuo0208/DesignPatternsAssignments/tree/1c1df4805beb25b3081d25a73c3387d74731d44a/Command)
 
 
